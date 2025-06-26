@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="zzh.jpg" class="floatpic">
 
 **Welcome to my page, here is Zhenhuan Zhou (周震寰)**.<br>
 
