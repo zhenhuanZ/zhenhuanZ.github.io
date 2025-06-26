@@ -23,10 +23,10 @@ and I expect to complete my doctoral studies by 2029.
 
 ## Research Interests
 
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Wireless Communication
-- Semantic Communication
-- LLM for Networking
+- Medical Image Analysis
+- Computer-Assisted Dentistry
+- Multimodal Model
+
 
 ---
 
