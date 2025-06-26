@@ -6,14 +6,14 @@ layout: page
 
 <img src="zzh.jpg" class="floatpic">
 
-**Welcome to my page, here is Zhenhuan Zhou (周震寰)**.<br>
-
-I am a graduate student in the [Internet of Everything Group](https://ioe.eng.cam.ac.uk/) at the University of Cambridge, supervised by [Prof. Ozgur Akan](https://ioe.eng.cam.ac.uk/directory/akan), and funded by the Cambridge Trust and CSC Scholarships. I also had the pleasure of participating in a summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
-
-Prior to Cambridge, I have worked on wireless networks, cybersecurity, and machine learning under the guidance of [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Besides, I was honored to be selected as an Undergraduate Scholar at the leading conferences AAAI 2024 and SIGKDD 2024.
-
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — **hc663 [at] cam.ac.uk**
-
+**Welcome to my page, here is Zhenhuan Zhou (周震寰)**. I am currently a Ph.D. student at the [Intelligent Computing Systems Laboratory of Nankai University (NKICS)](https://ics.nankai.edu.cn/) in Tianjin, China, 
+under the supervision of Professor [Tao Li](https://cc.nankai.edu.cn/2021/0323/c13619a548882/page.htm).
+I graduated from [Tianjin No. 1 High School](https://tjyz.tj.edu.cn/) in 2019 and received my Bachelor's degree in Communication Engineering 
+from the [School of Electronic Information Engineering at Anhui University](https://dy.ahu.edu.cn/main.htm) in 2023, 
+under the supervision of Associate Professor [Jun Zhu](https://dy.ahu.edu.cn/2015/0821/c11066a104062/page.htm). 
+I then joined [NKICS](https://ics.nankai.edu.cn/) to pursue a Master's degree. 
+In September 2025, I transitioned into a Ph.D. program through the integrated Master-Ph.D. track at [NKICS](https://ics.nankai.edu.cn/), 
+and I expect to complete my doctoral studies by 2029.
 ---
 
 ## Research Interests
