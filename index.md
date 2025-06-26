@@ -11,7 +11,7 @@ layout: page
 <strong>Welcome to my page! Here is Zhenhuan Zhou (周震寰)</strong>. I am currently a Ph.D. student at the 
 <a href="https://ics.nankai.edu.cn/">Intelligent Computing Systems Laboratory of Nankai University (NKICS)</a> in Tianjin, China, 
 under the supervision of Professor <a href="https://cc.nankai.edu.cn/2021/0323/c13619a548882/page.htm">Tao Li</a>.
-I graduated from <a href="https://tjyz.tj.edu.cn/">Tianjin No. 1 High School</a> in 2019 and received my Bachelor's degree in Communication Engineering 
+I graduated from <a href="https://tjyz.tj.edu.cn/">Tianjin No. 1 High School</a> in 2019. Then, in 2023, I received my Bachelor's degree in Communication Engineering 
 from the <a href="https://dy.ahu.edu.cn/main.htm">School of Electronic Information Engineering at Anhui University</a> in 2023, 
 under the supervision of Associate Professor <a href="https://dy.ahu.edu.cn/2015/0821/c11066a104062/page.htm">Jun Zhu</a>. 
 I then joined <a href="https://ics.nankai.edu.cn/">NKICS</a> to pursue a Master's degree. 
