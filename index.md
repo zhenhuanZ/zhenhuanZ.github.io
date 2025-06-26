@@ -4,17 +4,20 @@ layout: page
 
 # About Me
 
-<img src="zzh.jpg" align="right" style="margin-right:10px; width:200px;">
+<img src="zzh.jpg" align="right" style="margin-left: 20px; width:200px;">
 
+<div style="text-align: justify;">
 
-**Welcome to my page! Here is Zhenhuan Zhou (周震寰)**. I am currently a Ph.D. student at the [Intelligent Computing Systems Laboratory of Nankai University (NKICS)](https://ics.nankai.edu.cn/) in Tianjin, China, 
-under the supervision of Professor [Tao Li](https://cc.nankai.edu.cn/2021/0323/c13619a548882/page.htm).
-I graduated from [Tianjin No. 1 High School](https://tjyz.tj.edu.cn/) in 2019 and received my Bachelor's degree in Communication Engineering 
-from the [School of Electronic Information Engineering at Anhui University](https://dy.ahu.edu.cn/main.htm) in 2023, 
-under the supervision of Associate Professor [Jun Zhu](https://dy.ahu.edu.cn/2015/0821/c11066a104062/page.htm). 
-I then joined [NKICS](https://ics.nankai.edu.cn/) to pursue a Master's degree. 
-In September 2025, I transitioned into a Ph.D. program through the integrated Master-Ph.D. track at [NKICS](https://ics.nankai.edu.cn/), 
+**Welcome to my page! Here is Zhenhuan Zhou (周震寰)**. I am currently a Ph.D. student at the <a href="https://ics.nankai.edu.cn/">Intelligent Computing Systems Laboratory of Nankai University (NKICS)</a> in Tianjin, China, 
+under the supervision of Professor <a href="https://cc.nankai.edu.cn/2021/0323/c13619a548882/page.htm">Tao Li</a>.
+I graduated from <a href="https://tjyz.tj.edu.cn/">Tianjin No. 1 High School</a> in 2019 and received my Bachelor's degree in Communication Engineering 
+from the <a href="https://dy.ahu.edu.cn/main.htm">School of Electronic Information Engineering at Anhui University</a> in 2023, 
+under the supervision of Associate Professor <a href="https://dy.ahu.edu.cn/2015/0821/c11066a104062/page.htm">Jun Zhu</a>. 
+I then joined <a href="https://ics.nankai.edu.cn/">NKICS</a> to pursue a Master's degree. 
+In September 2025, I transitioned into a Ph.D. program through the integrated Master-Ph.D. track at <a href="https://ics.nankai.edu.cn/">NKICS</a>, 
 and I expect to complete my doctoral studies by 2029.
+
+</div>
 
 ---
 
