@@ -15,6 +15,8 @@ under the supervision of Associate Professor [Jun Zhu](https://dy.ahu.edu.cn/201
 I then joined [NKICS](https://ics.nankai.edu.cn/) to pursue a Master's degree. 
 In September 2025, I transitioned into a Ph.D. program through the integrated Master-Ph.D. track at [NKICS](https://ics.nankai.edu.cn/), 
 and I expect to complete my doctoral studies by 2029.
+</div>
+
 ---
 
 ## Research Interests
