@@ -4,9 +4,9 @@ layout: page
 
 # About Me
 
-<img src="zzh.jpg" class="floatpic">
+<img src="zzh.jpg" align="right" style="margin-right:10px; width:200px;">
 
-**Welcome to my page, here is Zhenhuan Zhou (周震寰)**. I am currently a Ph.D. student at the [Intelligent Computing Systems Laboratory of Nankai University (NKICS)](https://ics.nankai.edu.cn/) in Tianjin, China, 
+**Welcome to my page! Here is Zhenhuan Zhou (周震寰)**. I am currently a Ph.D. student at the [Intelligent Computing Systems Laboratory of Nankai University (NKICS)](https://ics.nankai.edu.cn/) in Tianjin, China, 
 under the supervision of Professor [Tao Li](https://cc.nankai.edu.cn/2021/0323/c13619a548882/page.htm).
 I graduated from [Tianjin No. 1 High School](https://tjyz.tj.edu.cn/) in 2019 and received my Bachelor's degree in Communication Engineering 
 from the [School of Electronic Information Engineering at Anhui University](https://dy.ahu.edu.cn/main.htm) in 2023, 
