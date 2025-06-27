@@ -96,7 +96,7 @@ kramdown:
 #  DISQUS COMMENT SYSTEM
 # --------------------------------------------------
 disqus:
-  shortname: lancecai
+  shortname: zhenhuanzhou
 
 
 # include: [".htaccess"]
