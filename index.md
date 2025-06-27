@@ -36,7 +36,8 @@ In September 2025, I transitioned into a Ph.D. program through the integrated Ma
 - **[06/2025]** Two paper were accepted as Conference paper to Medical Image Computing and Computer Assisted Intervention 2025! 🎉🎉 **(MICCAI 2025) _CCF-B_** <br>See you in Daejeon, South Korea! 🎉🎉
 - **[08/2024]** One paper was accepted as a Conference paper to 2024 IEEE International Conference on Bioinformatics and Biomedicine! 🎉🎉 **(BIBM 2024) _CCF-B_**
 - **[04/2024]** One paper was accepted as a Journal paper to IEEE Journal of Biomedical and Health Informatics! 🎉🎉 (**IEEE JBHI IF=6.8**) —_**SCI Q2 Top**_
-
 <br>
 
+---
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Xrk-JdJ4WmwIeLXLU3yf3DOuI_ZWyFsNrQxMRJXy-YI"></script>
 
