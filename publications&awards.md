@@ -14,14 +14,14 @@ title: Publications & Awards
 **Zhenhuan Zhou†**, Yuchen Zhang†, Ruihong Xu, Xuansen Zhao and Tao Li ✉️ <br>
 *Medical Image Computing and Computer Assisted Intervention 2025 (MICCAI 2025)* [[Code]](https://github.com/nkicsl/PRAD)
 <p align="center">
-  <img src="images/PRADlogo.jpg" alt="PRAD Logo" style="width:80%; max-width:600px;">
+  <img src="images/PRADlogo.jpg" alt="PRAD Logo" style="width:70%; max-width:400px;">
 </p>
 
 - **Towards Automated Pediatric Dental Development Staging: A Dataset and Model [C]**<br>
 Peng Wang, Along He, Zhihong Wang, Anli Wang, **Zhenhuan Zhou** and Tao Li ✉️ <br>
 *Medical Image Computing and Computer Assisted Intervention 2025 (MICCAI 2025)* [[Code]](https://github.com/ybupengwang/DDSNet)
 <p align="center">
-  <img src="images/Pengwang.jpg" alt="DDSNet" style="width:80%; max-width:600px;">
+  <img src="images/Pengwang.jpg" alt="DDSNet" style="width:70%; max-width:400px;">
 </p>
 
 - **[Cross-Frequency Collaborative Training Network and Dataset for Semi-supervised First Molar Root Canal Segmentation [A]](https://arxiv.org/abs/2504.11856)**<br>
@@ -38,14 +38,14 @@ Peng Wang, Along He, Zhihong Wang, Anli Wang, **Zhenhuan Zhou** and Tao Li ✉�
 **Zhenhuan Zhou**, Yuzhu Chen, Along He, Xitao Que, Kai Wang, Rui Yao ✉️ and Tao Li ✉️ <br>
 *IEEE Journal of Biomedical and Health Informatics, vol. 28, no. 6, pp. 3523-3533, June 2024* [[Code]](https://github.com/nkicsl/NKUT)
 <p align="center">
-  <img src="images/NKUT.jpg" alt="WTNet" style="width:80%; max-width:600px;">
+  <img src="images/NKUT.jpg" alt="WTNet" style="width:70%; max-width:400px;">
 </p>
 
 - **[Spatial-Frequency Dual Domain Attention Network For Medical Image Segmentation [C]](https://ieeexplore.ieee.org/abstract/document/10822613)**<br>
 **Zhenhuan Zhou**, Along He, Yanlin Wu, Rui Yao, Xueshuo Xie and Tao Li ✉️ <br>
 *2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024)* [[Code]](https://github.com/nkicsl/SF-UNet)
 <p align="center">
-  <img src="images/SFUnet.jpg" alt="SFUnet" style="width:80%; max-width:600px;">
+  <img src="images/SFUnet.jpg" alt="SFUnet" style="width:70%; max-width:400px;">
 </p>
 
 ---
