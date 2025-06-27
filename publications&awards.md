@@ -4,50 +4,62 @@ permalink: /publications&awards/index.html
 title: Publications & Awards
 ---
 
-> (†: equal contribution, ~: corresponding author)
+> (†: equal contribution, ✉️: corresponding author, [C]: Conference, [J]: Journal, [A]: Arxiv)
+## Publications 📌📌📌:
+[//]: # (## Selected Publications)
+### 2025 🐍
+- **[PRAD: Periapical Radiograph Analysis Dataset and Benchmark Model Development [C]](https://arxiv.org/abs/2504.07760)**<br>
+**Zhenhuan Zhou†**, Yuchen Zhang†, Ruihong Xu, Xuansen Zhao and Tao Li ✉️ <br>
+*Medical Image Computing and Computer Assisted Intervention 2025 (MICCAI 2025)* [[Code]](https://github.com/nkicsl/PRAD)
+<p align="center">
+  <img src="images/PRADlogo.jpg" alt="CFC-Net Architecture" style="width:80%; max-width:600px;">
+</p>
 
-## Journal Paper
+- **Towards Automated Pediatric Dental Development Staging: A Dataset and Model [C]**<br>
+Peng Wang, Along He, Zhihong Wang, Anli Wang, **Zhenhuan Zhou** and Tao Li ✉️ <br>
+*Medical Image Computing and Computer Assisted Intervention 2025 (MICCAI 2025)* [[Code]](https://github.com/ybupengwang/DDSNet)
+<p align="center">
+  <img src="images/Pengwang.jpg" alt="CFC-Net Architecture" style="width:80%; max-width:600px;">
+</p>
 
-- Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision<br>Hanlin Cai, Houtianfu Wang, Haofan Dong, Ozgur B. Akan~<br>[arXiv](https://arxiv.org/abs/2503.23446). Submitted to IEEE Communications Standards Magazine.
-
-## Conference Paper
-
-- [Semantic Learning for Molecular Communication in Internet of Bio-Nano Things](https://arxiv.org/abs/2502.08426)<br>**Hanlin Cai**, Ozgur B. Akan~<br>Proceedings of the 9th Workshop on Molecular Communications<br>Catania, Italy. February, 2025.
-
-- [Securing Billion Bluetooth Low Energy Devices Using Cyber-Physical Analysis and Deep Learning Techniques](https://www.researchgate.net/publication/384046364/)<br>**Hanlin Cai†**, Yuchen Fang**†**, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu**~**<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), [Undergraduate Consortium](https://kdd2024.kdd.org/undergraduate-consortium/).<br>Barcelona, Spain. August, 2024.<br>
-
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://dl.acm.org/doi/abs/10.1145/3643832.3661434)<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu**~**<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2024), Poster.<br>Tokyo, Japan. June, 2024.
-
-  <br>
-
-- Applying LLM-Powered Virtual Humans to Child Interviews in Child-Centered Design<br>Linshi Li, **Hanlin Cai~**<br>The 24th Annual ACM Interaction Design and Children Conference (IDC 25)<br>Reykjavik, Iceland. June, 2025.
-
-- SeeMusic: XR-Enhanced Musical Language Training Application for Hearing-impaired Children<br>Linshi Li, Xianjinghua Chen, Yutian Qin and **Hanlin Cai~**<br>The 14th IEEE International Conference on Educational and Information Technology (ICEIT 2025).<br>Guangzhou, China. March, 2025.
-
-
-<br>
+- **[Cross-Frequency Collaborative Training Network and Dataset for Semi-supervised First Molar Root Canal Segmentation [A]](https://arxiv.org/abs/2504.11856)**<br>
+**Zhenhuan Zhou†**, Yuchen Zhang†, Along He, Peng Wang, Xueshuo Xie and Tao Li ✉️ <br>
 
 
+- **[Med-URWKV: Pure RWKV With ImageNet Pre-training For Medical Image Segmentation [A]](https://arxiv.org/abs/2506.10858)**<br>
+**Zhenhuan Zhou** and Tao Li ✉️ <br>
 ---
 
-## Early Project
+### 2024 🐲
+- **[NKUT: Dataset and Benchmark for Pediatric Mandibular Wisdom Teeth Segmentation [J]](https://ieeexplore.ieee.org/abstract/document/10485282)**<br>
+**Zhenhuan Zhou**, Yuzhu Chen, Along He, Xitao Que, Kai Wang, Rui Yao ✉️ and Tao Li ✉️ <br>
+*IEEE Journal of Biomedical and Health Informatics, vol. 28, no. 6, pp. 3523-3533, June 2024* [[Code]](https://github.com/nkicsl/NKUT)
+<p align="center">
+  <img src="images/NKUT.jpg" alt="CFC-Net Architecture" style="width:80%; max-width:600px;">
+</p>
 
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project ([thesis](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), [Undergraduate Consortium](https://aaai.org/aaai-24-conference/undergraduate-consortium-program/).<br>Vancouver, Canada. February, 2024.
-
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-- An IoT Monitoring System for Effective Garbage Management<br>*Second-year course design.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
-
-  <br>
+- **[Spatial-Frequency Dual Domain Attention Network For Medical Image Segmentation [C]](https://ieeexplore.ieee.org/abstract/document/10822613)**<br>
+**Zhenhuan Zhou**, Along He, Yanlin Wu, Rui Yao, Xueshuo Xie and Tao Li ✉️ <br>
+*2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024)* [[Code]](https://github.com/nkicsl/SF-UNet)
+<p align="center">
+  <img src="images/SFUNet.jpg" alt="CFC-Net Architecture" style="width:80%; max-width:600px;">
+</p>
 
 ---
-
-## Degree Thesis
-
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). **Best Bachelor Thesis Award** (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to ACM SIGKDD 2024.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at China HUADING Tech.<br>
-
-  <br>
-
+## Awards 🏆🏆🏆:
+- **2024.09:** Nankai University GONGNENG Second Prize Scholarship (￥10,000)
+- **2023.10:** "Tiankai Cup" Chuangju Jinmen National College Students Intelligent Technology Innovation and Entrepreneurship Challenge Excellence Award
+- **2023.09:** Postgraduate Admission Scholarship (Recommendation & Exam Exemption) (￥3,000)
+- **2023.09:** Freshman Scholarship of Nankai University (￥8,000)
+- **2022.09:** Outstanding Student Scholarship, Anhui University (￥5,000)
+- **2021.09:** “Three Good” Student Award, Anhui University
+- **2022.09:** Outstanding Student Scholarship, Anhui University (￥5,000)
+- **2020.09:** “Three Good” Student Honorary Title and Outstanding Student Leader Honorary Title, Anhui University 
+- **2020.09:** Academic Excellence Scholarship (￥600), Student Leadership and Service Scholarship (￥600) and Social Practice Scholarship (￥600), Anhui University
 <br>
+---
+
+## Works 💼💼💼:
+- **Reviewer**: IEEE JBHI, ICIBM
+- Assistant at NKICS Laboratory; Class President
+- Administrative Assistant at the Office of Cybersecurity and Informatization, Party Committee of Nankai University
