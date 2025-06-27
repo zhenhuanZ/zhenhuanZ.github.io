@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /publications/index.html
-title: Publications
+permalink: /publications&awards/index.html
+title: Publications & Awards
 ---
 
 > (†: equal contribution, ~: corresponding author)
