@@ -44,7 +44,7 @@ Peng Wang, Along He, Zhihong Wang, Anli Wang, **Zhenhuan Zhou** and Tao Li ✉�
 **Zhenhuan Zhou**, Along He, Yanlin Wu, Rui Yao, Xueshuo Xie and Tao Li ✉️ <br>
 *2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2024)* [[Code]](https://github.com/nkicsl/SF-UNet)
 <p align="center">
-  <img src="images/SFUNet.jpg" alt="CFC-Net Architecture" style="width:80%; max-width:600px;">
+  <img src="images/SFUnet.jpg" alt="CFC-Net Architecture" style="width:80%; max-width:600px;">
 </p>
 
 ---
