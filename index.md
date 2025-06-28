@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="/iamges/ZZHCN.jpg" align="right" style="margin-left: 20px; width:200px;">
+<img src="ZZHCN.jpg" align="right" style="margin-left: 20px; width:200px;">
 
 <div style="text-align: justify; line-height: 1.6; font-size: 16px;">
 
