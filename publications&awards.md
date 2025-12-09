@@ -63,6 +63,7 @@ Peng Wang, Along He, Zhihong Wang, Anli Wang, **Zhenhuan Zhou** and Tao Li ✉�
 ---
 
 ## Works 💼💼💼:
-- **Reviewer**: IEEE JBHI, ICIBM
+- **Journal Reviewer**: IEEE JBHI, EAAI, ESWA, iScience
+- **Conference Reviewer**: ICIBM 2024, PRCV 2025, ICASSP 2026
 - Assistant at NKICS Laboratory; Class President
 - Administrative Assistant at the Office of Cybersecurity and Informatization, Party Committee of Nankai University
